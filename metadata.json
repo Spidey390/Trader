@@ -1,0 +1,6 @@
+{
+  "name": "Forex Killzone AI Quant Agent",
+  "description": "Autonomous AI Forex trading agent with Killzone Liquidity Sweep & FVG Retest engine, multi-timeframe backtester, walk-forward validation, volatility clustering, and self-improving strategy synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
